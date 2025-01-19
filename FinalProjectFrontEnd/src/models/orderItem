@@ -1,0 +1,22 @@
+// models/orderItem.js
+const { Model, DataTypes } = require("sequelize");
+const sequelize = require("../db"); // Your sequelize instance
+const Order = require("../routes/orderRoutes");
+const Book = require("./book");
+
+class OrderItem extends Model {}
+
+OrderItem.init(
+  {
+    orderId: { type: DataTypes.INTEGER, allowNull: false },
+    bookId: { type: DataTypes.INTEGER, allowNull: false },
+    quantity: { type: DataTypes.INTEGER, allowNull: false },
+    priceAtTimeOfPurchase: { type: DataTypes.DECIMAL(10, 2), allowNull: false },
+  },
+  { sequelize, modelName: "OrderItem" }
+);
+
+OrderItem.belongsTo(Order, { foreignKey: "orderId" });
+OrderItem.belongsTo(Book, { foreignKey: "bookId" });
+
+module.exports = OrderItem;

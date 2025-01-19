@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDD5EA-EC8D-4451-86C8-F5118B2F9489}|Data_Access_Layer_ASP.NET_Core\\Data_Access_Layer_ASP.NET_Core.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\data_access_layer_asp.net_core\\data\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDD5EA-EC8D-4451-86C8-F5118B2F9489}|Data_Access_Layer_ASP.NET_Core\\Data_Access_Layer_ASP.NET_Core.csproj|solutionrelative:data_access_layer_asp.net_core\\data\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDD5EA-EC8D-4451-86C8-F5118B2F9489}|Data_Access_Layer_ASP.NET_Core\\Data_Access_Layer_ASP.NET_Core.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\data_access_layer_asp.net_core\\data\\data_access_layer_aspnet_corecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDD5EA-EC8D-4451-86C8-F5118B2F9489}|Data_Access_Layer_ASP.NET_Core\\Data_Access_Layer_ASP.NET_Core.csproj|solutionrelative:data_access_layer_asp.net_core\\data\\data_access_layer_aspnet_corecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDD5EA-EC8D-4451-86C8-F5118B2F9489}|Data_Access_Layer_ASP.NET_Core\\Data_Access_Layer_ASP.NET_Core.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\data_access_layer_asp.net_core\\migrations\\20250119125131_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDD5EA-EC8D-4451-86C8-F5118B2F9489}|Data_Access_Layer_ASP.NET_Core\\Data_Access_Layer_ASP.NET_Core.csproj|solutionrelative:data_access_layer_asp.net_core\\migrations\\20250119125131_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|solutionrelative:final_project_asp.net_api_back_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC98FD9-81CF-4DAA-8CB5-0D737A9F131E}|Common\\Common.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\common\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC98FD9-81CF-4DAA-8CB5-0D737A9F131E}|Common\\Common.csproj|solutionrelative:common\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC98FD9-81CF-4DAA-8CB5-0D737A9F131E}|Common\\Common.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\common\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC98FD9-81CF-4DAA-8CB5-0D737A9F131E}|Common\\Common.csproj|solutionrelative:common\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC98FD9-81CF-4DAA-8CB5-0D737A9F131E}|Common\\Common.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\common\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC98FD9-81CF-4DAA-8CB5-0D737A9F131E}|Common\\Common.csproj|solutionrelative:common\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end\\services\\jwtsecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|solutionrelative:final_project_asp.net_api_back_end\\services\\jwtsecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|solutionrelative:final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|solutionrelative:final_project_asp.net_api_back_end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|solutionrelative:final_project_asp.net_api_back_end\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|c:\\hackeru\\asp\\finalproject\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{61DEBCA8-001F-450A-98C2-4C96C253CE6B}|Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj|solutionrelative:final_project_asp.net_api_back_end\\final_project_asp.net_api_back_end.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Data_Access_Layer_ASP.NET_Core\\Data\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer_ASP.NET_Core\\Data\\BooksRepository.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Data_Access_Layer_ASP.NET_Core\\Data\\BooksRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer_ASP.NET_Core\\Data\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:51:21.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250119125131_db1.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Data_Access_Layer_ASP.NET_Core\\Migrations\\20250119125131_db1.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer_ASP.NET_Core\\Migrations\\20250119125131_db1.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Data_Access_Layer_ASP.NET_Core\\Migrations\\20250119125131_db1.cs",
+              "RelativeToolTip": "Data_Access_Layer_ASP.NET_Core\\Migrations\\20250119125131_db1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:51:31.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Common\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\Book.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Common\\Models\\Book.cs",
+              "RelativeToolTip": "Common\\Models\\Book.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:18:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSecurityService.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Services\\JwtSecurityService.cs",
+              "RelativeDocumentMoniker": "Final_Project_ASP.NET_API_Back_End\\Services\\JwtSecurityService.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Services\\JwtSecurityService.cs",
+              "RelativeToolTip": "Final_Project_ASP.NET_API_Back_End\\Services\\JwtSecurityService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:17:27.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Final_Project_ASP.NET_API_Back_End.csproj",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj",
+              "RelativeDocumentMoniker": "Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj",
+              "RelativeToolTip": "Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T17:14:45.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data_Access_Layer_ASPNET_CoreContext.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Data_Access_Layer_ASP.NET_Core\\Data\\Data_Access_Layer_ASPNET_CoreContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer_ASP.NET_Core\\Data\\Data_Access_Layer_ASPNET_CoreContext.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Data_Access_Layer_ASP.NET_Core\\Data\\Data_Access_Layer_ASPNET_CoreContext.cs",
+              "RelativeToolTip": "Data_Access_Layer_ASP.NET_Core\\Data\\Data_Access_Layer_ASPNET_CoreContext.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAPUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:09:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Common\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\AppUser.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Common\\Models\\AppUser.cs",
+              "RelativeToolTip": "Common\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:18:38.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Common\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\BookCategory.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Common\\Models\\BookCategory.cs",
+              "RelativeToolTip": "Common\\Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:19:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Program.cs",
+              "RelativeDocumentMoniker": "Final_Project_ASP.NET_API_Back_End\\Program.cs",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Program.cs",
+              "RelativeToolTip": "Final_Project_ASP.NET_API_Back_End\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:10:03.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\appsettings.json",
+              "RelativeDocumentMoniker": "Final_Project_ASP.NET_API_Back_End\\appsettings.json",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\appsettings.json",
+              "RelativeToolTip": "Final_Project_ASP.NET_API_Back_End\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T10:08:57.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Final_Project_ASP.NET_API_Back_End\\appsettings.Development.json",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\appsettings.Development.json",
+              "RelativeToolTip": "Final_Project_ASP.NET_API_Back_End\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T10:08:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Final_Project_ASP.NET_API_Back_End.http",
+              "DocumentMoniker": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.http",
+              "RelativeDocumentMoniker": "Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.http",
+              "ToolTip": "C:\\hackeru\\ASP\\FinalProject\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.http",
+              "RelativeToolTip": "Final_Project_ASP.NET_API_Back_End\\Final_Project_ASP.NET_API_Back_End.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T10:08:46.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
